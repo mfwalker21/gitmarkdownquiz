@@ -1,6 +1,6 @@
-# Project Title
+# Git Case Study 
 
-> A short description about the project and/or client.
+> Using git, markdown to evaulate case study; branches using markdown see below (Main, Feature-a, develop).
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ $ And keep this in mind
 ```
 ### Branches
 
-* Main:
-* Feature:
+* Main: issue and pull request use markdown
+* Feature: commit template uses markdown
 * Bugfix:
 * etc...
