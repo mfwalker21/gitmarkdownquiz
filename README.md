@@ -1,6 +1,6 @@
 # Git Case Study 
 
-> Using git, markdown to evaulate case study; branches using markdown see below (Main, Feature-a, develop).
+> Update: Using git, markdown to evaulate case study; branches using markdown see below (Main, Feature-a, develop).
 
 ## Getting Started
 
